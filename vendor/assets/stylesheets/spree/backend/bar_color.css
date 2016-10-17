@@ -1,3 +1,8 @@
+.navbar{
+    /*width: 130px; /* Width of new image */
+    /*height: 130px; /* Height of new image */
+}
+
 .navbar .row {
     padding-bottom: 0;
     background: green;
